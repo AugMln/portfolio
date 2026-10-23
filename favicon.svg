@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    rect { fill: #0f0f10; } text { fill: #fafaf8; } .dot { fill: #2442ff; }
+    @media (prefers-color-scheme: dark) { rect { fill: #ecebe3; } text { fill: #0d0e0b; } .dot { fill: #2442ff; } }
+  </style>
+  <rect width="64" height="64"/>
+  <text x="8" y="46" font-family="Inter Tight, Arial, sans-serif" font-weight="800" font-size="34" letter-spacing="-2">AM</text>
+  <circle class="dot" cx="54" cy="12" r="5"/>
+</svg>

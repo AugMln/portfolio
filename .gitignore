@@ -1,0 +1,14 @@
+# Fichiers de travail : restent en local, hors du dépôt et du site
+CLAUDE.md
+PLAN.md
+README.md
+maquettes/
+_og/
+.claude/
+
+# Système / éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
